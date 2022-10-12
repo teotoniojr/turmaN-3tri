@@ -33,8 +33,20 @@ Trabalhando paletas de cores e melhorando o arquivo CSS
 Inserindo algumas imagens e trabalhando os comandos de tamanho, borda e espaçamento.
 
 ---
-### ** 12 de Agosto de 2022 ** (Extra)
+# Terceiro Trimestre
+---
 
-Testando as próximas aulas 
+### ** 06 de Outubro de 2022 **
+
+Iniciando os trabalhos do terceiro trimestre 
 
 ---
+
+### ** 11 de Outubro de 2022 **
+
+Nivelamento HTML/CSS (Cabeçalho concluído)
+
+---
+### ** 12 de Outubro de 2022 ** (extra)
+
+Testando aulas furutras
