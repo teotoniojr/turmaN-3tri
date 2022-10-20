@@ -1,0 +1,68 @@
+/* 
+.color1 { #cc815c };
+.color2 { #f8b597 };
+.color3 { #64361f };
+.color4 { #b47b69 };
+.color5 { #beb8a9 };
+ */
+ @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono&display=swap');
+body {
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(#83c5be,#006d77 );
+}
+.container {
+    background-color: #edf6f9;
+    margin: 64px;
+    border-radius: 20px;
+    box-shadow: 6px 6px 6px #0e1d2f;
+    color: #1C1C1C;
+    padding: 64px;
+}
+.perfil {
+    display: flex;
+    align-items: center;
+}
+.foto-perfil{
+    border-radius: 400px;
+    max-height: 160px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.titulo-perfil{
+    margin-left: 2em;
+}
+.titulo-perfil h1 {
+    font-weight: 700;
+    font-size: 36px;
+}
+.titulo-perfil h3 {
+    font-weight: 400;
+    font-size: 24px;
+}
+.projetos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 20px;
+    margin-top: 32px;
+    padding: 32px;
+    background: linear-gradient(230deg,#00a4b3  37%,#00eaff 73%) ;
+    box-shadow: 2px 2px 4px rgba(16, 16, 16, 0.42);
+}
+.projetos-titulo {
+    list-style: none;
+    font-weight: 700;
+    font-size: 36px;
+    margin-bottom: 24px;
+    text-align: center;
+}
+.projetos-itens{
+    list-style-type: none;
+    font-size: 24px;
+    line-height: 48px;
+    font-weight: 400;
+    text-align: left;
+}
+.projetos-itens a {
+    color: #1c1c1c;
+    text-decoration: none;
+}
