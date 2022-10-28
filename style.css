@@ -26,6 +26,9 @@ nav {
     top: 90px;
     right: 75px;
 }
+nav li {
+    display: inline;
+}
 nav a {
     font-size: 20px;
     padding-left: 20px;
