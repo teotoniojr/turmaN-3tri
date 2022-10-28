@@ -55,6 +55,7 @@ Testando aulas furutras
 ### ** 20 de Outubro de 2022 ** 
 
 Construindo cabeçalho e mudando de projeto
+
 ---
 ### ** 27 de Outubro de 2022 **
 
