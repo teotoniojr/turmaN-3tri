@@ -38,31 +38,43 @@ body {
     font-weight: 400;
     font-size: 24px;
 }
+.projetos-geral {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: space-between;
+}
 .projetos {
     display: flex;
     flex-direction: column;
     align-items: center;
     border-radius: 20px;
-    margin-top: 32px;
-    padding: 32px;
-    background: linear-gradient(230deg,#00a4b3  37%,#00eaff 73%) ;
+    margin: 24px 8px 8px 8px;
+    background: linear-gradient(230deg,#00c5d7  37%,#00eaff 73%) ;
     box-shadow: 2px 2px 4px rgba(16, 16, 16, 0.42);
 }
 .projetos-titulo {
     list-style: none;
     font-weight: 700;
-    font-size: 36px;
+    font-size: 30px;
     margin-bottom: 24px;
     text-align: center;
 }
 .projetos-itens{
     list-style-type: none;
-    font-size: 24px;
-    line-height: 48px;
+    font-size: 18px;
+    line-height: 38px;
     font-weight: 400;
     text-align: left;
+    padding: 12px;
 }
 .projetos-itens a {
     color: #1c1c1c;
     text-decoration: none;
+}
+.projetos-itens a:hover {
+    color: #100138;
+    font-size: 20px;
+    text-shadow: 2px 2px 5px #a1f7ff;
+    transition: 0.3s;
+
 }
