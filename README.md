@@ -36,27 +36,27 @@ Inserindo algumas imagens e trabalhando os comandos de tamanho, borda e espaçam
 # Terceiro Trimestre
 ---
 
-### ** 06 de Outubro de 2022 **
+### **06 de Outubro de 2022**
 
 Iniciando os trabalhos do terceiro trimestre 
 
 ---
 
-### ** 11 de Outubro de 2022 **
+### **11 de Outubro de 2022**
 
 Nivelamento HTML/CSS (Cabeçalho concluído)
 
 ---
-### ** 12 de Outubro de 2022 ** (extra)
+### **12 de Outubro de 2022** (extra)
 
 Testando aulas furutras
 
 ---
-### ** 20 de Outubro de 2022 ** 
+### **20 de Outubro de 2022** 
 
 Construindo cabeçalho e mudando de projeto
 
 ---
-### ** 27 de Outubro de 2022 **
+### **27 de Outubro de 2022**
 
 Fazendo link dos projetos dos alunos
