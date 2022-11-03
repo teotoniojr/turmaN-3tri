@@ -108,3 +108,33 @@ ul{
     transition: 0.3s;
 
 }
+.introducao {
+    display: inline-block;
+    margin: 30px 30px 0;
+}
+.subtitulo {
+    font-size: 25px;
+}
+
+.texto-introducao {
+    margin: 40px 150px 0 250px;
+    font-size: 20px;
+    line-height: 1.5em;
+    text-align: center;
+}
+
+.foto-cataratas {
+    width: 15%;
+    float: left;
+    margin:  20px 20px 0;
+}
+.texto-formacao {
+    font-size: 20px;
+    line-height: 1.5em;
+    text-align: left;
+}
+.foto-formatura {
+    width: 40%;
+    float: right;
+    margin: 20px 20px 20px 20px;
+}
