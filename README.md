@@ -62,6 +62,6 @@ Construindo cabeçalho e mudando de projeto
 Fazendo link dos projetos dos alunos
 
 ---
-### ***03 de Novembro de 2022**
+### **03 de Novembro de 2022**
 
 Utilizando rest.css e melhorando a página experiências
