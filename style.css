@@ -1,10 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Sono:wght@200;300;400;500;600;700;800&display=swap');
 
 body {
     text-align: center;
     background: linear-gradient(rgb(229, 255, 151), rgb(143, 148, 188));
+    margin: 0 auto;
+    font-family: 'Sono', sans-serif;
 }
 .capa {
     width: 100%;
+    border-radius: 10px;
 }
 .caixa {
     display: inline;
@@ -23,7 +27,7 @@ body {
 }
 nav {
     position: absolute;
-    top: 90px;
+    top: 75px;
     right: 75px;
 }
 nav li {
@@ -37,10 +41,10 @@ nav a {
     text-transform: uppercase;
 }
 nav a:hover{
-    font-size: 25px;
+    font-size: 22px;
     font-weight: bold;
     text-shadow: 1px 1px 2px rgb(0, 0, 0);
-    color: rgb(143, 148, 188);
+    color: rgb(255, 255, 255);
     transition: 0.5s;
 
 }

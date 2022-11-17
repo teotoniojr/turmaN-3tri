@@ -56,7 +56,7 @@ body {
     padding: 4px;
 }
 .cabecalho a:hover {
-    font-size: 25px;
+    font-size: 22px;
     color: #100138;
     transition: 0.5s;
     text-shadow: 3px 3px 6px #0e1d2f;
@@ -114,27 +114,31 @@ ul{
 }
 .subtitulo {
     font-size: 25px;
+    text-align: center;
 }
 
 .texto-introducao {
-    margin: 40px 150px 0 250px;
+    margin: 100px 150px 0 250px;
     font-size: 20px;
     line-height: 1.5em;
     text-align: center;
 }
 
 .foto-cataratas {
-    width: 15%;
+    width: 20%;
     float: left;
     margin:  20px 20px 0;
+    border-radius: 15px;
 }
 .texto-formacao {
     font-size: 20px;
     line-height: 1.5em;
     text-align: left;
+    padding-bottom: 20px;
 }
 .foto-formatura {
     width: 40%;
     float: right;
     margin: 20px 20px 20px 20px;
+    border-radius: 15px;
 }
