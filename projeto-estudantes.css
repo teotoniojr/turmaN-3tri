@@ -134,11 +134,33 @@ ul{
     font-size: 20px;
     line-height: 1.5em;
     text-align: left;
-    padding-bottom: 20px;
+    padding-bottom: 40px;
 }
 .foto-formatura {
     width: 40%;
     float: right;
-    margin: 20px 20px 20px 20px;
+    margin: 20px;
+    margin-top: 0px;
+    border-radius: 15px;
+}
+.foto-parque{
+    width: 40%;
+    float: left;
+    margin: 20px;
+    margin-top: 0px;
+    border-radius: 15px;
+}
+.foto-colombia{
+    width: 30%;
+    float: right;
+    margin: 20px;
+    margin-top: 0px;
+    border-radius: 15px;
+}
+.foto-pti{
+    width: 40%;
+    float: left;
+    margin: 20px;
+    margin-top: 0px;
     border-radius: 15px;
 }
